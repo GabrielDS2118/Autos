@@ -1,4 +1,5 @@
 public class CarroElictrico : Carro
 {
-    public float DuracionBaterio {get;set;}
+    public float DuracionBateria {get;set;}
+    public float precio {get;set;}
 }
